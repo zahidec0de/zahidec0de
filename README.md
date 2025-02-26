@@ -5,7 +5,7 @@ I’m **Zahid Mohammed**, a senior cybersecurity student at the University of Ba
 
 ## 🎯 Career Goal  
 
-My goal is to become a cybersecurity specialist by following a clear plan: gaining hands-on experience, earning certifications, and staying updated with the latest technologies. I am focused on mastering penetration testing, threat detection, and network security to protect and secure digital systems.
+My goal is to become a cybersecurity specialist by following a clear plan: gaining hands-on practical experience, earning certifications, and staying updated with the latest technologies. I am focused on mastering penetration testing, threat detection, and network security to protect and secure digital systems.
 
 
 ## 🛡️ About Me  
