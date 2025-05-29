@@ -1,3 +1,8 @@
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1B7CCF&center=true&vCenter=true&width=435&lines=Cybersecurity+Student+%7C+Penetration+Tester;Network+Security+%7C+Threat+Detection+%7C+Ethical+Hacking;Always+learning%2C+always+improving!+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zahidec0de&show_icons=true&theme=radical" alt="Zahid's GitHub stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidec0de&layout=compact&theme=radical" alt="Top Languages" height="170"/>
