@@ -24,11 +24,11 @@ My goal is to become a cybersecurity specialist by following a clear plan: gaini
 
 ## 💻 Technical Skills  
 
-### **Operating Systems**
+### Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🔤 Programming Languages  
+### Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -37,12 +37,12 @@ My goal is to become a cybersecurity specialist by following a clear plan: gaini
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### **Cybersecurity & Networking**
+### Cybersecurity & Networking
 ![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Threat Detection](https://img.shields.io/badge/Threat_Detection-5C2D91?style=for-the-badge&logo=microsoftdefender&logoColor=white)
 ![Network Analysis](https://img.shields.io/badge/Network_Analysis-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
 
-### **Tools & Technologies**
+### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-1182C3?style=for-the-badge&logo=metasploit&logoColor=white)
@@ -53,7 +53,7 @@ My goal is to become a cybersecurity specialist by following a clear plan: gaini
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![OpenVAS](https://img.shields.io/badge/OpenVAS-009639?style=for-the-badge&logo=openvas&logoColor=white)
 
-### **Network Implementation and Configurations**
+### Network Implementation and Configurations
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-0083E1?style=for-the-badge&logo=cisco&logoColor=white)
 
 ## ⚡ Personal Interests  
